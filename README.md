@@ -1,3 +1,13 @@
+# Mac OS setup
+
+Original Boxen README below.
+
+- Install Xcode
+- Install Command Line Tools using `xcode-select --install`
+- Install Boxen and launch it with this repo (as explained below)
+- Override default Vim using `alias vim="/Applications/MacVim.app/Contents/MacOS/Vim"`
+
+
 # Our Boxen
 
 This is a template Boxen project designed for your organization to fork and

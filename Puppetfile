@@ -60,3 +60,15 @@ github "xquartz",     "1.2.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+github "alfred",      "1.4.0"
+github "atom",        "1.2.0"
+github "docker",      "0.9.0"
+github "iterm2",      "1.2.4"
+github "java",        "1.8.2"
+github "nginx",       "1.4.5"
+github "postgresql",  "3.0.3"
+github "virtualbox",  "1.0.13"
+github "wget",        "1.0.1"
+github "zsh",         "1.0.0"
+
+
